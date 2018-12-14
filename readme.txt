@@ -1,3 +1,4 @@
+new branch
 first commit
 add branch
 diff branch
@@ -10,3 +11,4 @@ new branch
 8
 7
 5
+930
